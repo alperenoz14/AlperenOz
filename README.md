@@ -1,5 +1,5 @@
 
-### Hi! It's Alperen. 👋      &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=alperenoz14.alperenoz14&style=flat-square&color=0088cc)
+### Hi! It's Alperen. 👋      
 
   
 I'm student of Software Engineering at Celal Bayar University. I love to share my knowledge and I'm try to learn more and get better and better every day.
@@ -30,6 +30,6 @@ I'm student of Software Engineering at Celal Bayar University. I love to share m
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+&nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=alperenoz14.alperenoz14&style=flat-square&color=0088cc)
 ![Alperen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alperenoz14&hide_border=true&show_icons=true&count_private=true&line_height=27&layout=compact)
 ![Alperen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alperenoz14&count_private=true&hide_border=true&show_icons=true&langs_count=5&layout=compact)
