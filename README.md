@@ -1,5 +1,5 @@
 
-### Hi! It's Alperen. 👋      
+### Hi! It's Alperen. 👋              &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=alperenoz14.alperenoz14&style=flat-square&color=0088cc)
 
   
 I'm student of Software Engineering at Celal Bayar University. I love to share my knowledge and I'm try to learn more and get better and better every day.
