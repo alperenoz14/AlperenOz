@@ -22,7 +22,7 @@ I'm student of Software Engineering at Celal Bayar University. I love to share m
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://www.instagram.com/alperenoz14/">
     <img align="left" alt="Alperen's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=hakanyalitekin.hakanyalitekin&style=flat-square&color=0088cc)
+ &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=alperenoz14.alperenoz14&style=flat-square&color=0088cc)
 **Languages and Tools I'm interest:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
