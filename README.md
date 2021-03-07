@@ -16,7 +16,7 @@ I'm student of Software Engineering at Celal Bayar University. I love to share m
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://twitter.com/alperenoz14">
     <img align="left" alt="Alperen's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://medium.com/@alperenoz1464">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://alperenoz14.medium.com/">
     <img align="left" alt="Alperen's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
   </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://www.instagram.com/alperenoz14/">
