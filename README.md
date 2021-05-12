@@ -6,7 +6,7 @@ I'm student of Software Engineering at Celal Bayar University. I love to share m
 
 
 - 👨🏽‍💻 I’m in interest with **web development** using **.NET technologies**;
-- 🌱 I’m currently learning and working with **ASP.NET Core**;
+- 🌱 I’m currently learning and working with **ASP.NET Core** and **React.JS**;
 - 📫 To contant with me: 
 
 
