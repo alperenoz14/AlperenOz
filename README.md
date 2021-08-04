@@ -5,7 +5,7 @@
 I'm student of Software Engineering at Celal Bayar University. I love to share my knowledge and I'm try to learn more and get better and better every day.
 
 
-- 👨🏽‍💻 I’m in interest with **web development** using **.NET technologies**;
+- 👨🏽‍💻 I’m in interest with **Full-Stack Development**;
 - 🌱 I’m currently learning and working with **ASP.NET Core** and **React.JS**;
 - 📫 To contant with me: 
 
